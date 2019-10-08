@@ -9,6 +9,6 @@ Link to report: https://www.overleaf.com/project/5d9c68be84b15500018fbc3b
     Increased transients \
     Stochastic resonance \
     Extinctions \
-  Design a set of well chosen experiments to demonstrate all these aspects, also exploring the dependence on the basic           parameters in the model. \
+  Design a set of well chosen experiments to demonstrate all these aspects, also exploring the dependence on the basic           parameters in the model.
 
 2. Spatial Models 
