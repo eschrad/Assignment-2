@@ -14,6 +14,7 @@ Design a set of well chosen experiments to demonstrate all these aspects, also e
   
 Papers: 
   * Info + Python: https://everything.explained.today/Gillespie_algorithm/ 
+  * Python: http://homepages.warwick.ac.uk/~masfz/ModelingInfectiousDiseases/Chapter6/index.html
   
 
 2. Spatial Models 
